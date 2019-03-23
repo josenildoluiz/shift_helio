@@ -1,6 +1,5 @@
 Linha no arquivo 1
 
 asd
-asd1
-asd2
+qualquer outra coisa...
 asd3
