@@ -3,3 +3,5 @@ Linha no arquivo 1
 asd
 
 asd3
+
+asd4
